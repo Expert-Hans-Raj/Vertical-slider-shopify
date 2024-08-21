@@ -1,4 +1,4 @@
-# Vertical-slider-shopify
+# Vertical-slider-shopify with  images chnages as per selected variant_image
 
 
 
